@@ -1,5 +1,4 @@
 ## 🧑‍💻 Siniša Zorić
-
 #
 ### Software && Creative Developer
 <hr>
