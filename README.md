@@ -1,46 +1,106 @@
-## 🧑‍💻 Siniša Zorić
-#
-### Software && Creative Developer
-<hr>
-I am a student of Graphical Engineering at the Faculty of Technology (UNIBL) and Software Engineering at Banja Luka College (BLC). I also participated in the ITAcademy for Java Development, where I gained experience in using Java and related technologies. My career in programming began through school competitions in robotics using Arduino. Since the age of sixteen, I have learned numerous technologies to connect everything into a whole at a higher level. I also gained initial experience through freelance work. My goal is to combine programming, robotics and design as my passions into a whole that will be the foundation for my further career.
+# ✨ Welcome to My Digital Space! ✨
 
-#
-### Languages && Tools
-<hr>
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation">
+</div> -->
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="coding animation">
+</div>
 
-#
-### Contacts
-<hr>
+## 👨‍💻 Who Am I?
 
-<!--
-**s1ks1/s1ks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Siniša Zorić, a passionate software developer from Banja Luka, Bosnia & Herzegovina. When I'm not coding, you might find me gaming or exploring the latest tech trends.
 
-Here are some ideas to get you started:
+- 🌐 Check out my website: [s1ks1.site](https://s1ks1.site)
+- 🔭 Currently crafting banking solutions at Nova Banka AD
+- 🌱 Always learning and expanding my tech stack
+- 💬 Ask me about anything tech-related!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Educational Pursuits
+
+- Graphic Engineering at Faculty of Technology (UNIBL)
+- Software Engineering at Banja Luka College (BLC)
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Web Components](https://img.shields.io/badge/-Web%20Components-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
+  ![Lit](https://img.shields.io/badge/-Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Vaadin](https://img.shields.io/badge/-Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
+  ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s1ks1&show_icons=true&theme=radical" alt="s1ks1's GitHub stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1ks1&theme=radical" alt="s1ks1's GitHub streak" /> -->
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s1ks1&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="s1ks1's trophies" />
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <!-- GitHub Contribution Calendar -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1ks1&theme=redical&hide_border=true" width="100%" alt="s1ks1's contribution graph" />
+  
+  <!-- Alternative calendar view -->
+  <!-- <img src="https://github-contribution-stats.vercel.app/api/?username=s1ks1&theme=radical" alt="Contribution Stats" /> -->
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://s1ks1.site" target="_blank">
+    <img src="https://img.shields.io/badge/Website-s1ks1.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/s1ks1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-s1ks1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+## 🚀 Vision & Aspirations
+
+I'm passionate about developing advanced business systems and continuously expanding my knowledge in software development.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=s1ks1&color=blueviolet&style=for-the-badge" alt="profile views" />
+</div>
+
+<div align="center">
+  
+  **Thanks for visiting my profile! Have a great day!** 😄
+  
+</div>
